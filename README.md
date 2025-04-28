@@ -1,0 +1,1 @@
+github repo with the backend code for Mosh app from Polkadot x Easy A x harvard blockchain hackathon 2025, including smart contracts and deploy script, deployed currently on moonbeam although we had initially tried to deploy on asset hub did not work for remix or binary compiler
